@@ -16,6 +16,7 @@ public class MyClass {
 
     private static void feature3() {
         // TODO - print "Feature #3"
+        // This is a fix for the crash bug.
     }
 
     private static void feature4() {
